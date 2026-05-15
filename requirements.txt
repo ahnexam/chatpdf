@@ -1,0 +1,10 @@
+streamlit
+langchain-community
+langchain-core
+langchain-classic
+langchain-chroma
+langchain-openai
+pypdf
+pysqlite3-binary
+langchain-text-splitters
+langsmith
